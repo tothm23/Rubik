@@ -1,0 +1,2 @@
+# Rubik
+Frontend dolgozat
